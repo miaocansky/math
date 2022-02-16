@@ -1,6 +1,4 @@
-
 <?php
-
 namespace Math;
 class Math
 {
