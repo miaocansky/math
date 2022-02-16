@@ -1,0 +1,19 @@
+{
+    "name": "miaocansky/math",
+    "description": "第一个composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "miaocansky",
+            "email": "1535474309@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Math\\": "src/Math/"
+        }
+    }
+}
